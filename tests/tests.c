@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2021
 ** Workshop
 ** File description:
-** tests file
+** tests
 */
 
 #include <criterion/criterion.h>
